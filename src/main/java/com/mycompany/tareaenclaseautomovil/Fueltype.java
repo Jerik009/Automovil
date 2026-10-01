@@ -2,9 +2,9 @@ package com.mycompany.tareaenclaseautomovil;
 
 public enum Fueltype {
     GASOLINE, 
-    BIOTHANOL, 
+    BIOETHANOL, 
     DIESEL, 
     BIODIESEL, 
-    NATURALGAS
+    NATURAL_GAS
 
 }
